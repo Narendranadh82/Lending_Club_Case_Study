@@ -41,9 +41,6 @@ Major Driving factor which can be used to predict the chance of defaulting and a
 ##### MatplotLib - version 3.4.3
 ##### Plotly - version 5.7.0
 
-## Acknowledgements
-This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
-
 ## License
 This project is open source and available without restrictions.
 
